@@ -18,4 +18,4 @@ Diagrmas em versão no MySQL Workbench e SqlDBM
 ![sqldbm](https://github.com/bids-work/modelagem-de-dados-com-powerbi/blob/main/Professor%20tabelas%20-%20diagrama%20-%20sqldbm_2%20(log).PNG)
 
 Star Schema
-![star_schema](
+![star_schema](https://github.com/bids-work/modelagem-de-dados-com-powerbi/blob/main/Professor%20-%20star%20schema%20-%20sqldbm_4.PNG)
